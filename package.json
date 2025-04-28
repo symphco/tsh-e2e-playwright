@@ -1,0 +1,33 @@
+{
+  "name": "mph-e2e",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/faker": "^6.6.11",
+    "@types/node": "^22.15.3",
+    "playwright": "^1.52.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.6.0",
+    "dotenv": "^16.4.7"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/symphco/tsh-e2e-playwright.git"
+  },
+  "bugs": {
+    "url": "https://github.com/symphco/tsh-e2e-playwright/issues"
+  },
+  "homepage": "https://github.com/symphco/tsh-e2e-playwright#readme",
+  "description": ""
+}
